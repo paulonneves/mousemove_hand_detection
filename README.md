@@ -1,6 +1,10 @@
 ### MouseHand
 Detector de movimento da mão capaz de mover o mouse, enquanto captura imagem em tempo real.
 
+Automação Gui desktop + 
+rastreamento de objetos.
+
+
 OBS: Certifique-se de conectar a webcam antes de testar.
 
 ### Inicio rápido
